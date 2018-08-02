@@ -1,0 +1,11 @@
+C:\Users\Chris Herrick\Desktop\Coding Dojo\C#\SpinToWin2\bin\Debug\netcoreapp2.0\SpinToWin2.deps.json
+C:\Users\Chris Herrick\Desktop\Coding Dojo\C#\SpinToWin2\bin\Debug\netcoreapp2.0\SpinToWin2.runtimeconfig.json
+C:\Users\Chris Herrick\Desktop\Coding Dojo\C#\SpinToWin2\bin\Debug\netcoreapp2.0\SpinToWin2.runtimeconfig.dev.json
+C:\Users\Chris Herrick\Desktop\Coding Dojo\C#\SpinToWin2\bin\Debug\netcoreapp2.0\SpinToWin2.dll
+C:\Users\Chris Herrick\Desktop\Coding Dojo\C#\SpinToWin2\bin\Debug\netcoreapp2.0\SpinToWin2.pdb
+C:\Users\Chris Herrick\Desktop\Coding Dojo\C#\SpinToWin2\obj\Debug\netcoreapp2.0\SpinToWin2.csprojResolveAssemblyReference.cache
+C:\Users\Chris Herrick\Desktop\Coding Dojo\C#\SpinToWin2\obj\Debug\netcoreapp2.0\SpinToWin2.csproj.CoreCompileInputs.cache
+C:\Users\Chris Herrick\Desktop\Coding Dojo\C#\SpinToWin2\obj\Debug\netcoreapp2.0\SpinToWin2.AssemblyInfoInputs.cache
+C:\Users\Chris Herrick\Desktop\Coding Dojo\C#\SpinToWin2\obj\Debug\netcoreapp2.0\SpinToWin2.AssemblyInfo.cs
+C:\Users\Chris Herrick\Desktop\Coding Dojo\C#\SpinToWin2\obj\Debug\netcoreapp2.0\SpinToWin2.dll
+C:\Users\Chris Herrick\Desktop\Coding Dojo\C#\SpinToWin2\obj\Debug\netcoreapp2.0\SpinToWin2.pdb
